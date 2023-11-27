@@ -1,0 +1,12 @@
+body{
+    width:400px;
+    background: rgb(223, 101, 234);
+    margin: 200px auto;
+    border-radius: 4px;
+    overflow: hidden;
+    border: 8px solid #F2F0EE;
+    box-shadow: 2px 2px 3px #333;
+  }
+  body {
+    font-family: Arial, sans-serif;
+  }
